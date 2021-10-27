@@ -46,6 +46,8 @@ int main()
         cout<<"3:delete the number";
         cout<<"4:read the number";
         cout<<"5:exit";
+        cout<<"enter choice";
+        cin>>choice;
         switch(choice)
         {
             case 1: 
